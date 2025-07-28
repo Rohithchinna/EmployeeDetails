@@ -1,0 +1,52 @@
+20250622	21:24:35	fc603cb3-4e98-46a8-8e5c-f6086605a63f	Error:Not allowed by CORS
+20250622	21:24:35	4e5af56f-697b-488b-96e5-774bfdd1dbee	Error:Not allowed by CORS
+20250622	21:25:05	71438d73-1bb5-4e1b-ab27-6f7680708cb3	Error:Not allowed by CORS
+20250622	21:28:45	9716cc1a-092c-417e-92ad-6a370550ac72	Error:Not allowed by CORS
+20250622	21:28:45	8d5ba219-da49-4f38-b471-75dc52469da4	Error:Not allowed by CORS
+20250622	21:28:45	70f38753-ba1a-44e3-86de-4ada5067e4f0	Error:Not allowed by CORS
+20250622	21:28:52	ad3c1ae3-1db1-4258-a7b4-60c6dcae1047	Error:Not allowed by CORS
+20250622	21:28:52	f92ffa23-aaae-44e2-ba30-bcd1988edfdd	Error:Not allowed by CORS
+20250622	21:28:52	55fdcc56-7532-4de6-a783-af3eb356059c	Error:Not allowed by CORS
+20250622	21:29:05	e544e709-ba1b-4e5f-ad84-0335984439fb	Error:Not allowed by CORS
+20250622	21:29:05	7934e4b8-0368-4d3c-a253-6b19a29e15fb	Error:Not allowed by CORS
+20250622	21:29:05	deff1cd9-1e3b-4f4b-850e-bf89fd0a0568	Error:Not allowed by CORS
+20250622	21:31:17	4376f6ce-9316-4744-a0a5-68dfe26b7829	Error:Not allowed by CORS
+20250622	21:31:17	30708667-57d1-4ff3-a703-7469829b5536	Error:Not allowed by CORS
+20250622	21:31:17	2702fb42-7e2d-450f-86ff-eab82f6cda92	Error:Not allowed by CORS
+20250622	21:34:03	e46bb36a-a356-43a6-9914-f3aa20719f5d	TypeError:Cannot read properties of undefined (reading 'includes')
+20250622	21:34:03	24f5086f-ff19-4b95-90b1-bf86fdd930f9	TypeError:Cannot read properties of undefined (reading 'includes')
+20250622	21:34:03	22339cb6-ee71-4c17-ac59-7772a9c22833	TypeError:Cannot read properties of undefined (reading 'includes')
+20250622	21:35:22	396cfc25-e192-4c99-b124-35690c2a4da3	Error:Not allowed by CORS
+20250622	21:35:22	6830823f-5b56-4e48-b5cd-2e465c4901db	Error:Not allowed by CORS
+20250622	21:35:22	1f06765b-4117-4079-b905-4ce283bd2ba1	Error:Not allowed by CORS
+20250622	21:35:24	ebc6654c-cadb-48c2-b60c-1a000d45de35	Error:Not allowed by CORS
+20250622	21:35:24	c206d65f-ce8f-4922-ae1a-6c43df0f2eee	Error:Not allowed by CORS
+20250622	21:35:24	4015d59b-bc95-4dd3-8bbe-c5fbffdf84a7	Error:Not allowed by CORS
+20250622	21:45:02	38aaa2d9-591b-44eb-9db9-e975b1cea917	Error:Not allowed by CORS
+20250622	21:45:02	e72d2d25-5764-42cf-a258-568ba87a5fb8	Error:Not allowed by CORS
+20250622	21:45:12	f9b81a8b-25f4-4d75-8839-443a3c8e7968	Error:Not allowed by CORS
+20250622	21:45:13	2ef11ccb-28e6-41ee-8c99-c996a0eb1edd	Error:Not allowed by CORS
+20250622	21:45:15	2e95c705-809c-49d9-8777-adeecf6a23f5	Error:Not allowed by CORS
+20250622	21:45:15	e68eb502-dc63-498a-bda9-4d3b3e203f30	Error:Not allowed by CORS
+20250622	21:54:35	ddf134cb-5743-4c28-94ef-856ac1ab4188	Error:Not allowed by CORS
+20250622	21:54:35	1cff1cd8-9fad-4496-8e44-637c126837fd	Error:Not allowed by CORS
+20250627	11:04:48	9a4d2e8f-a5d0-4423-99c9-13b869e4bf44	ReferenceError:path is not defined
+20250627	11:04:59	66a27a52-ad9b-4bdb-b270-a721870e8b82	ReferenceError:path is not defined
+20250627	11:07:28	0fc9fc04-6c5e-4942-8be3-9fdc2969cdb0	ReferenceError:path is not defined
+20250627	11:07:33	198f6e1f-854d-4ec0-9cb2-57410d62eac5	ReferenceError:path is not defined
+20250627	11:09:00	a78cc3a2-82bd-4d19-86d6-b658d0da6aa2	ReferenceError:path is not defined
+20250627	11:11:42	16e0a3ff-6ab8-4064-aced-74ef07531710	ReferenceError:path is not defined
+20250627	13:38:00	d22525e3-3ea3-46b2-b4ff-cccc3e1ef047	SyntaxError:Expected ',' or '}' after property value in JSON at position 13 (line 3 column 3)
+20250627	13:38:22	1a89c4cd-f5d6-4f84-8021-6fa1e08f0747	SyntaxError:Expected double-quoted property name in JSON at position 15 (line 4 column 1)
+20250701	20:45:04	493869b2-d629-4cb4-b7d4-7a0e9ad4f9b1	ReferenceError:json is not defined
+20250701	20:45:07	3bf18418-71a2-41c1-aa21-f40ebd1fbca2	ReferenceError:json is not defined
+20250701	20:52:28	b1826071-8973-4611-8b7d-712800140aff	ReferenceError:json is not defined
+20250701	20:52:39	3f5cfa7e-2348-4019-bbda-63dd7e7a2a06	TypeError:Cannot read properties of undefined (reading 'id')
+20250701	20:52:47	b73a6021-6cb3-4e34-ae69-40c87055ca0d	TypeError:Cannot read properties of undefined (reading 'id')
+20250718	20:17:54	f2b1be73-5f0a-4495-993e-31e0fc4b502d	ReferenceError:json is not defined
+20250718	20:21:19	f4e98b3f-56ec-4f60-b2b4-658332b56818	ReferenceError:json is not defined
+20250718	20:22:02	166e3a8a-9162-4b55-bc8c-118cf2a67987	ReferenceError:json is not defined
+20250718	20:22:06	ab491982-ca8d-41eb-80f1-e146982109cd	SyntaxError:Unexpected token '"', ""eyJhbGciO"... is not valid JSON
+20250718	20:22:28	3f9ae161-5aef-4aa5-b3df-f29ae0fae094	SyntaxError:Unexpected token '"', ""eyJhbGciO"... is not valid JSON
+20250718	20:40:39	925804a2-6c44-4b40-8201-9ca57a35ae90	TypeError:Cannot read properties of undefined (reading 'firstname')
+20250718	20:45:38	c346c6e1-bfeb-4347-8d4f-927152c2ab46	SyntaxError:Expected ',' or '}' after property value in JSON at position 13 (line 3 column 3)
